@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi world 👋 🦄
+
+As a developer I can generate solutions to problems on the front-end with good practices and a scalable software architecture. I am meticulous with my work, I like creating animations, and modeling pixel perfect apps.
+
+I also have back-end knowledge working with non-relational databases, creating Apis with Node.js with Typescript. 
+
+I like teamwork. Working as a team seems important to me because it's a way to build great things nimbly.
 
 <!--
 **alexrobaina/alexrobaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
