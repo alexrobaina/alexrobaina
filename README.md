@@ -12,8 +12,7 @@ As a full-stack developer, I specialize in generating solutions to front-end pro
 ## 🌐 Languages
 
 - **Native Spanish**
-- **Intermediate English**
-**
+- **Intermediate English B2**
 
 ## Pet's love Project
 
